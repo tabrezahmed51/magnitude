@@ -13,7 +13,7 @@
   "dependencies": {
     "@effect/cli": "^0.75.2",
     "@effect/opentelemetry": "^0.63.0",
-    "@effect/platform": "^0.96.0",
+    "@effect/platform": "^0.97.2",
     "@effect/platform-bun": "^0.90.0",
     "@effect/rpc": "0.75.1",
     "@magnitudedev/agent": "workspace:*",
@@ -27,7 +27,7 @@
     "@magnitudedev/storage": "workspace:*",
     "@magnitudedev/utils": "workspace:*",
     "@magnitudedev/version": "workspace:*",
-    "effect": "^3.21.2",
+    "effect": "^4.1.5",
     "fast-json-patch": "^3.1.1"
   }
 }

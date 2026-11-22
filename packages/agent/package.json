@@ -14,7 +14,7 @@
     "web-search:capture": "bun run scripts/web-search-capture.ts"
   },
   "dependencies": {
-    "@effect/platform": "^0.96.0",
+    "@effect/platform": "^0.97.2",
     "@effect/platform-bun": "^0.90.0",
     "@magnitudedev/dom-extract": "workspace:*",
     "@magnitudedev/generate-id": "workspace:*",
@@ -29,7 +29,7 @@
 
     "@magnitudedev/acn-protocol": "workspace:*",
     "@magnitudedev/vcs": "workspace:*",
-    "effect": "^3.21.2",
+    "effect": "^4.1.5",
     "ignore": "^7.0.5",
     "luxon": "^3.7.2",
     "slimdom": "^4.3.5"
@@ -40,6 +40,6 @@
     "@magnitudedev/tracing": "workspace:*",
     "@types/bun": "latest",
     "@types/luxon": "^3.7.1",
-    "vitest": "^3.2.1"
+    "vitest": "^5.1.1"
   }
 }

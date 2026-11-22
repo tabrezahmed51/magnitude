@@ -14,13 +14,13 @@
     "test": "bunx --bun vitest run"
   },
   "dependencies": {
-    "@effect/platform": "^0.96.0",
-    "effect": "^3.21.2",
+    "@effect/platform": "^0.97.2",
+    "effect": "^4.1.5",
     "prettier": "^2.8.8"
   },
   "devDependencies": {
     "@types/prettier": "^2.7.3",
     "@types/bun": "latest",
-    "vitest": "^3.2.4"
+    "vitest": "^5.1.1"
   }
 }
