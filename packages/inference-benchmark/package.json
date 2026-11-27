@@ -21,7 +21,7 @@
     "@huggingface/hub": "2.13.3",
     "@magnitudedev/ai": "workspace:*",
     "@magnitudedev/icn-protocol": "workspace:*",
-    "effect": "3.22.1"
+    "effect": "4.1.7"
   },
   "devDependencies": {
     "@types/bun": "latest",
