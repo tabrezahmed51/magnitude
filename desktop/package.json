@@ -8,19 +8,19 @@
     "build": "electron-vite build"
   },
   "dependencies": {
-    "@effect/platform": "^0.96.1",
+    "@effect/platform": "^0.97.2",
     "@effect/platform-node-shared": "^0.60.0",
     "@effect/rpc": "0.75.1",
     "@magnitudedev/acn-protocol": "workspace:*",
     "@magnitudedev/client-common": "workspace:*",
     "@magnitudedev/sdk": "workspace:*",
     "@magnitudedev/web": "workspace:*",
-    "effect": "^3.21.2",
+    "effect": "^4.1.5",
     "sqlite3": "5.1.7"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.3.4",
-    "electron": "^33.0.0",
+    "electron": "^45.4.1",
     "electron-vite": "^2.3.0",
     "vite": "^6.0.0",
     "@types/react": "^19.0.0",

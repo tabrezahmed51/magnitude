@@ -20,18 +20,18 @@
     "test": "bunx --bun vitest run"
   },
   "dependencies": {
-    "@effect/platform": "^0.96.0",
+    "@effect/platform": "^0.97.2",
     "@magnitudedev/ai": "workspace:*",
     "@magnitudedev/icn-protocol": "workspace:*",
     "@magnitudedev/openapi-effect": "workspace:*",
     "@magnitudedev/release": "workspace:*",
     "@magnitudedev/utils": "workspace:*",
     "@noble/hashes": "^2.2.0",
-    "effect": "3.21.2"
+    "effect": "3.22.1"
   },
   "devDependencies": {
     "@effect/platform-bun": "^0.90.0",
     "@types/bun": "latest",
-    "vitest": "^3.2.4"
+    "vitest": "^5.1.1"
   }
 }

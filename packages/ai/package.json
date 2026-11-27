@@ -21,8 +21,8 @@
   "dependencies": {
     "@paralleldrive/cuid2": "^3.3.0",
     "@magnitudedev/utils": "workspace:*",
-    "effect": "^3.21.2",
-    "@effect/platform": "^0.96.0",
+    "effect": "^4.1.5",
+    "@effect/platform": "^0.97.2",
     "@effect/platform-bun": "^0.90.0"
   },
   "devDependencies": {

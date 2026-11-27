@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@magnitudedev/inference-benchmark": "workspace:*",
-    "effect": "3.21.2"
+    "effect": "3.22.1"
   },
   "devDependencies": {
     "@sveltejs/vite-plugin-svelte": "^5.0.3",
