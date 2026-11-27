@@ -27,8 +27,8 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "effect": "^3.21.2",
-    "@effect/platform": "^0.96.0",
+    "effect": "^4.1.7",
+    "@effect/platform": "^0.97.2",
     "@effect/opentelemetry": "^0.63.0",
     "@effect/rpc": "0.75.1",
     "@magnitudedev/ai": "workspace:*",
@@ -43,6 +43,6 @@
   },
   "devDependencies": {
     "@effect/platform-bun": "^0.90.0",
-    "vitest": "^3.2.4"
+    "vitest": "^5.1.2"
   }
 }
