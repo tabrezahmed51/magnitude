@@ -5,7 +5,7 @@ description = "Instrumented MLX-LM adapter for Magnitude inference benchmarks"
 requires-python = ">=3.12,<3.13"
 dependencies = [
   "mlx-lm==0.31.3",
-  "starlette==0.47.3",
+  "starlette==1.3.1",
   "uvicorn==0.35.0",
 ]
 
@@ -16,7 +16,7 @@ magnitude-mlx-benchmark-qualify = "magnitude_mlx_benchmark_server.qualify:main"
 [dependency-groups]
 dev = [
   "httpx==0.28.1",
-  "pytest==8.4.1",
+  "pytest==9.0.3",
 ]
 
 [build-system]
